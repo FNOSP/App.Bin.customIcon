@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/AppName-customIcon-purple)
 ![Static Badge](https://img.shields.io/badge/DisplayName-扩展图标管理-purple)
 ![Static Badge](https://img.shields.io/badge/Distributor-MR__XIAOBO-purple)
-![Static Badge](https://img.shields.io/badge/version-1.0.0-green)
+![Static Badge](https://img.shields.io/badge/version-2.3.9--Beta-green)
 
 ### **:loudspeaker: 应用简介：**
 ![Logo](app/ui/images/logo.png)
