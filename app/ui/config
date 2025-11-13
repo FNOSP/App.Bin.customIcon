@@ -6,11 +6,11 @@
             "type": "iframe",
             "url": "/cgi/ThirdParty/customIcon/index.cgi/",
             "allUsers": false,
-	    "control": {
-                "fullUrlPerm": "readonly",
-                "portPerm": "readonly", 
-                "pathPerm": "readonly"
-            }
-        }
+		    "control": {
+				"fullUrlPerm": "readonly",
+				"portPerm": "readonly", 
+				"pathPerm": "readonly"
+	        }
+	    }
     }
 }
